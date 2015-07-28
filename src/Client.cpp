@@ -8,6 +8,7 @@
 //-------------------------------------------------------------------------------------------------
 #include "System.h"
 #include "Common.h"
+#include "test.pb.h"
 
 
 #define IOCP_ASSERT(e, info) {if(!(e)) {printf(info); fflush(stdout); assert(false);}}

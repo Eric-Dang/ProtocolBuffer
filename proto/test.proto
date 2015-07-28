@@ -1,0 +1,6 @@
+message MsgInfo 
+{
+	required int32  time = 1;
+	optional string name = 2;
+	optional string from = 3;
+}

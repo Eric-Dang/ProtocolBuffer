@@ -45,3 +45,6 @@ Debug/
 # log file Windows ex-file
 *副本*
 ~$*.pptx
+
+# protocol buffer generate file
+*.pb.*
