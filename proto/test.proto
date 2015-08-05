@@ -1,3 +1,4 @@
+package tutorial;
 message MsgInfo 
 {
 	required int32  time = 1;
